@@ -1,0 +1,6 @@
+E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\bin\Debug\FilesTxt.exe.config
+E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\bin\Debug\FilesTxt.exe
+E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\bin\Debug\FilesTxt.pdb
+E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\obj\Debug\FilesTxt.exe
+E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\obj\Debug\FilesTxt.pdb
+E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\obj\Debug\FilesTxt.csprojResolveAssemblyReference.cache
