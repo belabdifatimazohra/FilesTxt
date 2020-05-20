@@ -4,3 +4,9 @@ E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\bin\Debug\FilesTxt.pdb
 E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\obj\Debug\FilesTxt.exe
 E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\obj\Debug\FilesTxt.pdb
 E:\BFZ\BFZ\Projet_GitHub\FilesTxt\FilesTxt\obj\Debug\FilesTxt.csprojResolveAssemblyReference.cache
+G:\Projets\GitHub\FileTXT\bin\Debug\FilesTxt.exe.config
+G:\Projets\GitHub\FileTXT\obj\Debug\FilesTxt.exe
+G:\Projets\GitHub\FileTXT\obj\Debug\FilesTxt.pdb
+G:\Projets\GitHub\FileTXT\bin\Debug\FilesTxt.exe
+G:\Projets\GitHub\FileTXT\bin\Debug\FilesTxt.pdb
+G:\Projets\GitHub\FileTXT\obj\Debug\FilesTxt.csprojResolveAssemblyReference.cache
