@@ -118,7 +118,7 @@ namespace FilesTxt
         {
             FileName = "Selectionner la liste à extraire du fichier",
             Filter = "Text files (*.txt)|*.txt",
-            Title = "Liste Matricul"
+            Title = "Liste Matricule"
         };
 
         [STAThread]
